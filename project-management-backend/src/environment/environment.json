@@ -1,0 +1,14 @@
+{
+  "development": {
+    "PORT": 8000,
+    "MONGODB_URI": "mongodb+srv://priyankakri8893:8DX39VAJBvKPQmX0@priyankakumari.uvh8zli.mongodb.net/project-management-tools",
+    "secret_token": "pmt_20092025_#$@!#",
+    "crypto_secret_key": "pmt@2024#$@!#@!#abclkjashd"
+  },
+  "prod": {
+    "PORT": 5000,
+    "MONGODB_URI": "mongodb+srv://priyankakri8893:8DX39VAJBvKPQmX0@priyankakumari.uvh8zli.mongodb.net/project-management-tools",
+    "secret_token": "pmt_20092025_#$@!#",
+    "crypto_secret_key": "pmt@2024#$@!#@!#abclkjashd"
+  }
+}
